@@ -1,0 +1,1 @@
+FROM kubeguide/redis-master
